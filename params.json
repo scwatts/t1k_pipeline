@@ -1,0 +1,10 @@
+{
+    "subject_id": "subject_id_PLACEHOLDER",
+    "input_fps": [
+      "https://raw.githubusercontent.com/mourisl/T1K/master/example/example_1.fq",
+      "https://raw.githubusercontent.com/mourisl/T1K/master/example/example_2.fq"
+    ],
+    "input_type": "fastq_paired",
+    "reference": "T1K/kiridx/kiridx_rna_seq.fa",
+    "output_dir": "output/"
+}
